@@ -9,3 +9,4 @@ ReactDOM.render(
 );
 
 
+// Challenge. Render all the notes inside  notes.js as a separate note component
